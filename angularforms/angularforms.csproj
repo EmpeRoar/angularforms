@@ -94,6 +94,7 @@
     <Reference Include="System.EnterpriseServices" />
   </ItemGroup>
   <ItemGroup>
+    <Content Include="app\Home.html" />
     <Content Include="packages.config" />
     <Content Include="ApplicationInsights.config">
       <CopyToOutputDirectory>PreserveNewest</CopyToOutputDirectory>
@@ -124,7 +125,7 @@
     <Content Include="app\AngularFormsApp.js" />
     <Content Include="app\EmployeeForm\efController.js" />
     <Content Include="app\EmployeeForm\efDirective.js" />
-    <Content Include="app\EmployeeForm\efService.js" />
+    <Content Include="app\DataService.js" />
     <Content Include="app\EmployeeForm\efTemplate.html" />
     <Content Include="Content\bootstrap-grid.css" />
     <Content Include="Content\bootstrap-grid.min.css" />
