@@ -8,4 +8,8 @@
             "Finance",
             "Administration"
         ];
+
+        $scope.submitForm = function () {
+            console.log($scope);
+        }
     });
